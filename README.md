@@ -1,6 +1,6 @@
 # Python Projects
 
-This is the whole subset of little porjects I worked on Python
+This is the whole subset of little projects I worked on Python
 
 <ul> Projects/Technologies Used
   <li>Numpy</li>
